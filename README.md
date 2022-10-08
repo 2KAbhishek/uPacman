@@ -20,7 +20,7 @@
 <a href="https://github.com/2KAbhishek/uPacman/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/uPacman?style=flat&color=e06c75&label="> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
+<h3>Pacman recreated with Unity 🕹️🍒</h3>
 
 <figure>
   <img src= "images/screenshot.png" alt="uPacman Demo">
@@ -32,17 +32,17 @@
 
 ## What is this
 
-uPacman is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+This is a modern recreation of Pacman built with Unity for learning purposes.
 
 ## Inspiration
 
-uPacman was inspired by `<reason/idea>`.
+Wanted to learn more about Unity and its ecosystem.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `Unity Editor`
 
 ## Getting uPacman
 
@@ -51,51 +51,26 @@ To get uPacman, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/uPacman
 cd uPacman
-<install_command>
 ```
 
-## Using uPacman
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+Open the project using Unity Hub and open the `Game` scene, hit the play button to run the game.
 
 ## How it was built
 
-uPacman was built using `<tech/library>`
+uPacman was built using `Unity Editor`.
 
 ## Challenges faced
 
-While building uPacman the main challenges were `<issue/difficulty>`
+Building tilemaps for walls was challenging.
 
 ## What I learned
 
-While building uPacman I `<learned/accomplished>` about `<learning/accomplishment>`
+- Learned about the Unity ecosystem
+- Tried out scripting using `C#`
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+You tell me, PRs welcome.
 
 Hit the ⭐ button if you found this useful.
 
